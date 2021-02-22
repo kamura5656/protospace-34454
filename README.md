@@ -1,4 +1,4 @@
-## usersテーブル
+## usersテーブル 
 | Culumn     | Type   | Options  | 
 | ---------- | ------ | -------- | 
 | email      | string | NOT NULL | 
